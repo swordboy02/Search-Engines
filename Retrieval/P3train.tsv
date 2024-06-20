@@ -1,0 +1,10 @@
+ql	q-us-ql	united	states
+or	q-us-or	united	states
+bm25	q-us-bm25	united	states
+and	q-us-and	united	states
+bm25	q-sciam-bm25	scientific	america	supplement
+or	q-motion-or	motion	vibratory	earth	water	stars	piston
+ql	q-hosp-ql	hospital
+or	q-hosp-or	hospital
+and	q-hosp-and	hospital
+and	q-das	detail	and	specification
